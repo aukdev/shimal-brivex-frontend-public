@@ -1,0 +1,1 @@
+import{j as n,a2 as s}from"./index-VjNv_0A-.js";const o=({children:e,className:r,variant:t="default"})=>n.jsx("span",{className:s("inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium",t==="outline"&&"border border-current bg-transparent",r),children:e});export{o as B};

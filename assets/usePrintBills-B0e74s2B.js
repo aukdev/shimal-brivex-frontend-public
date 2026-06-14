@@ -1,0 +1,1 @@
+import{u as r,r as e}from"./index-VjNv_0A-.js";const n="printBills:target",o="/print/bills";function l(){const t=r();return e.useCallback(s=>{if(s.mode==="ids"){const i=Array.from(new Set(s.ids.filter(Boolean)));if(i.length===0)return;s={...s,ids:i}}try{sessionStorage.setItem(n,JSON.stringify(s))}catch{}t(o)},[t])}const c=n;export{c as P,l as u};
